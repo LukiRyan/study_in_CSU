@@ -1,1 +1,1 @@
-# study_in_CSU
+# only used for study
